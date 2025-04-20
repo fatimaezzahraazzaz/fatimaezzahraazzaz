@@ -1,6 +1,7 @@
 # Hi 👋 I'm Fatima Ezzahra :)
 
 I'm a Data Science & AI student based in Morocco 
+
 🌱 Currently learning and working on machine learning, computer vision, and deep learning projects.  
 🔭 I’m focused on applying AI to real-world problems, including image classification for healthcare.  
 📫 You can reach me at: fatimaezzahramdl8@gmail.com  
