@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Fatima Ezzahra:)
 
-<!--
-**fatimaezzahraazzaz/fatimaezzahraazzaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science & AI student based in [Ton pays]  
+🌱 Currently learning and working on machine learning, computer vision, and deep learning projects.  
+🔭 I’m focused on applying AI to real-world problems, including image classification for healthcare.  
+📫 You can reach me at: fatimaezzahramdl8@gmail.com 
 
-Here are some ideas to get you started:
+💻 Visitors:  
+![Visitor Count](https://profile-counter.glitch.me/{fatimaezzahraazzaz}/count.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack:
+- **Languages**: Python, Java, SQL
+- **Machine Learning/AI**: TensorFlow, Keras, scikit-learn
+- **Web/Backend**: Django, Java
+- **Tools**: Git, Google Colab
+
+## 📈 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username={fatimaezzahraazzaz}&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+
+## 🔥 Most Used Languages:
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={fatimaezzahraazzaz}&langs_count=8&layout=compact&theme=radical)
